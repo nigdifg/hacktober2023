@@ -1,5 +1,12 @@
 [
     {
+        "name": "Anurag",
+        "github": "nigdifg",
+        "linkedin": "anurag-91a137203",
+        "portfolio": "https://anurag03.netlify.app/",
+        "description": "Programmer | Full Stack Developer "
+    },
+	{
         "name": "Pushkar Yadav",
         "github": "pushkarydv",
         "twitter": "pushkaryadavin",
@@ -85,15 +92,6 @@
         "description": "Full Stack Developer"
     },
     {
-      
-        "name": "Ashwin V Kumar",
-        "github": "github-ashwin",
-        "twitter": "callmeashwin",
-        "linkedin": "Ashwin V Kumar",
-        "description": "Full-Stack Web Developer",
-        "portfolio": "https://bit.ly/ppfl-ashwin"
-    },
-   {
         "name": "Anish Araz",
         "github": "anisharaz",
         "twitter": "AnishAraz",
